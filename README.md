@@ -1,4 +1,6 @@
-#Godot Mixamo tool
+# Godot Mixamo tool
+
+## This is an alpha version but manages to rename bones and scale the animations 
 
 Utility addon for Blender to help you get animations and rigged characters
 from [Mixamo](https://www.Mixamo.com) to [Godot Game Engine](https://www.godotengine.org)
